@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat Bisht</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-- 👨‍💻 All of my projects are available at <a target="blank" href="https://raj9457.github.io/">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a target="blank" href="https://Raj9457.github.io/">Portfolio</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj9457&label=Profile%20views&color=0e75b6&style=flat" alt="raj9457" /> </p>
 
