@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rajatbisht508@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13dw_4WocatBDSW2GTIhx6hep9I0SBf-m/view?usp=sharing](https://drive.google.com/file/d/13dw_4WocatBDSW2GTIhx6hep9I0SBf-m/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13dw_4WocatBDSW2GTIhx6hep9I0SBf-m/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
