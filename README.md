@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rajat Bisht</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
+- 👨‍💻 All of my projects are available at <a target="blank" href="https://raj9457.github.io/">Portfolio</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj9457&label=Profile%20views&color=0e75b6&style=flat" alt="raj9457" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj9457" alt="raj9457" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://raj9457.github.io/](https://raj9457.github.io/)
+
 
 - 💬 Ask me about **HTML , CSS , JavaScript , ReactJs**
 
